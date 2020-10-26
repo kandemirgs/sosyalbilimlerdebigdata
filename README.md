@@ -87,13 +87,14 @@ Digital Methods for Web Search https://drive.google.com/file/d/1amtzja3bvG8bUcvP
 
     5- Büyük Veri'de Kullanılan API, Software Örnekleri Nelerdir? (R, Pyton, SQL, Twitter API'leri)
     
-    Using R to unlock the value of big data https://drive.google.com/file/d/1s_INijMDAnRHwlsOlsd_CDtHMJEPtqjI/view?usp=sharing
     
-    Big Data at Work https://drive.google.com/file/d/11pZumzsdQB7zqeKv6zP76nhWGT4zqcfO/view?usp=sharing Twitter Analysis: Methods for Data Management ... ss. 83-138
+   Using R to unlock the value of big data https://drive.google.com/file/d/1s_INijMDAnRHwlsOlsd_CDtHMJEPtqjI/view?usp=sharing
     
-    Privacy and Big Data https://drive.google.com/file/d/1iNb8YXdL5N6mJ97QSRtsnu3euDxFmgK2/view?usp=sharing
+   Big Data at Work https://drive.google.com/file/d/11pZumzsdQB7zqeKv6zP76nhWGT4zqcfO/view?usp=sharing Twitter Analysis: Methods for Data Management ... ss. 83-138
     
-    Big Data Related Technologies, Challenges.. https://drive.google.com/file/d/11oDeuhOiFyc4HXOVuho67bAXBiMCtRrt/view?usp=sharing Big Data Applications ss. 59-76
+   Privacy and Big Data https://drive.google.com/file/d/1iNb8YXdL5N6mJ97QSRtsnu3euDxFmgK2/view?usp=sharing
+    
+   Big Data Related Technologies, Challenges.. https://drive.google.com/file/d/11oDeuhOiFyc4HXOVuho67bAXBiMCtRrt/view?usp=sharing Big Data Applications ss. 59-76
 
     6- Büyük Veri'nin Nitel Yöntemlerle Yorumlanması (İçerik Analizi, Söylem Analizi, Derlem Bilim)
    
