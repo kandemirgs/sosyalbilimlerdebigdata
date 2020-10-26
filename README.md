@@ -25,17 +25,30 @@ https://ajungherr.github.io/dtd-konstanz-summer2018/course-pages/week1/
 
 Okuma:
 
+
     3- Sosyal Bilimlerde Büyük Veri Üzerinden Araştırma Nasıl Araştırma Yapılır?
 
 Okuma:
 
+Thick big data: https://drive.google.com/file/d/1H-9r5IaJa5pVPjfO-zdWbv_vpNUO7Fjv/view?usp=sharing ss. 5-16 / 98-112
+
     4- Verilerin Gizliliği Nedir? Büyük Veri'de Etik Sorunu Nasıl Ele Alınır?
+    
+ Okuma: 
+    
+ Thick big data: https://drive.google.com/file/d/1H-9r5IaJa5pVPjfO-zdWbv_vpNUO7Fjv/view?usp=sharing ss. 113-127
 
     5- Büyük Veri'de Kullanılan API, Software Örnekleri Nelerdir? (R, Pyton, SQL, Twitter API'leri)
 
     6- Büyük Veri'nin Nitel Yöntemlerle Yorumlanması (İçerik Analizi, Söylem Analizi, Derlem Bilim)
+   
+   Okuma:
+   Thick big data: https://drive.google.com/file/d/1H-9r5IaJa5pVPjfO-zdWbv_vpNUO7Fjv/view?usp=sharing ss. 70-98
 
     7- Büyük Verinin Nicel Araştırmalarda Kullanılması (İstatistiksel, Ekonometrik, Sosyal Ağ Teoremine yönelik)
+  
+  Okuma: 
+  Thick big data: https://drive.google.com/file/d/1H-9r5IaJa5pVPjfO-zdWbv_vpNUO7Fjv/view?usp=sharing ss. 28-70
 
     8- Büyük Verinin Karma Yöntemlerle Yorumlanması (Kutuplaşma Teoremi)
 
