@@ -17,11 +17,14 @@ https://datarob.com/information-vs-data-vs-knowledge/
 
 https://www.cambridgeinternational.org/Images/285017-data-information-and-knowledge.pdf
 
-50 years of data science https://drive.google.com/file/d/1679lIhgrH2KQ7U7m22i3WpH4Sc3n1ySP/view?usp=sharing
+50 years of data science:
+https://drive.google.com/file/d/1679lIhgrH2KQ7U7m22i3WpH4Sc3n1ySP/view?usp=sharing
 
-Computational Social Science for the World Wide Web https://drive.google.com/file/d/1XkC7eDJmyHnS0BDYiSJsWoTMM0OqE_Xt/view?usp=sharing
+Computational Social Science for the World Wide Web:
+https://drive.google.com/file/d/1XkC7eDJmyHnS0BDYiSJsWoTMM0OqE_Xt/view?usp=sharing
 
-Computational Social Science https://drive.google.com/file/d/1z9PFBL6nJgF32w318KNUMv1rUv2bIFS_/view?usp=sharing
+Computational Social Science:
+https://drive.google.com/file/d/1z9PFBL6nJgF32w318KNUMv1rUv2bIFS_/view?usp=sharing
 
 
     2- Büyük Veri Nedir?
