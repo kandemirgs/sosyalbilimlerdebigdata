@@ -3,19 +3,17 @@
 
 Genel olarak big data/ büyük veri olarak adlandırabileceğimiz bu tip veriler akademik alanda yapılan çalışmaların yöntem, kapsam ve perspektifinde değişikliklere yol açmaktadır. Büyük Veri, farklı disiplinlerin birlikte çalışmalarını olanaklarını da artırmaktadır.
 
-Bu amaçla, sosyal bilimlerde bilgisayar tabanlı programların sınırlarını artırmak, büyük veri kullanarak interdisipliner çalışmaların gelişmesine yardımcı olmak üzere osf.io üzerinden bir paylaşım platformu oluşturuldu. Bu platform iletişim, iktisat, siyaset bilimi, bilgisayar ve yazılım mühendisliği gibi farklı çalışma alanlarının genel düzeyde ortak bir dil yaratabilmesi amacıyla sosyal bilimlerde büyük veri başlığı altında gerçekleşecek kurs ile ilgili paylaşımlara erişime yardımcı olacaktır. Kurs içeriğinin şu alt başlıklardan oluşturulması planlandı.
+Bu amaçla, sosyal bilimlerde bilgisayar tabanlı programların sınırlarını artırmak, büyük veri kullanarak interdisipliner çalışmaların gelişmesine yardımcı olmak üzere github.com üzerinden bir paylaşım platformu oluşturuldu. Bu platform iletişim, iktisat, siyaset bilimi, bilgisayar ve yazılım mühendisliği gibi farklı çalışma alanlarının genel düzeyde ortak bir dil yaratabilmesi amacıyla sosyal bilimlerde büyük veri başlığı altında gerçekleşecek kurs ile ilgili paylaşımlara erişime yardımcı olacaktır. Kurs içeriğinin şu alt başlıklardan oluşturulması planlandı.
 
-    1- Veri Nedir, Veri Türleri Nasıl Sınıflandırılır? Sosyal Bilimlerde Teknolojinin Serüveni
-
-Web sitesi:
+    1- Veri Nedir, Veri Türleri Nasıl Sınıflandırılır? 
 
 http://www.knowledge-management-tools.net/different-types-of-knowledge.php
-
-Okuma:
 
 https://datarob.com/information-vs-data-vs-knowledge/
 
 https://www.cambridgeinternational.org/Images/285017-data-information-and-knowledge.pdf
+
+      Sosyal Bilimlerde Teknolojik Verilerin Serüveni (isteğe bağlı bölüm)
 
 50 years of data science https://drive.google.com/file/d/1679lIhgrH2KQ7U7m22i3WpH4Sc3n1ySP/view?usp=sharing
 
@@ -26,11 +24,6 @@ Computational Social Science https://drive.google.com/file/d/1z9PFBL6nJgF32w318K
 
     2- Büyük Veri Nedir?
 
-Web sitesi:
-
-https://ajungherr.github.io/dtd-konstanz-summer2018/course-pages/week1/
-
-Okuma:
 Planning for Big Data https://drive.google.com/file/d/1Ne4inxdfxLC1cXDGuaNsmyqYoddgW4LX/view?usp=sharing ss. 38-52
 
 big data glossary https://drive.google.com/file/d/1ebe5cUF6o509UcTYTMDFLBweCNJmhLdS/view?usp=sharing
@@ -43,11 +36,28 @@ Big Data Related Technologies, Challenges.. https://drive.google.com/file/d/11oD
 
 Data ex Machina : Introduction to Big Data https://drive.google.com/file/d/17wlENoOSvoSqP29RJAqRkUlvxwY6nazV/view?usp=sharing
 
+   
+    3- Verilerin Gizliliği Nedir? Büyük Veri'de Etik Sorunu Nasıl Ele Alınır? 
+    
+ Thick big data: https://drive.google.com/file/d/1H-9r5IaJa5pVPjfO-zdWbv_vpNUO7Fjv/view?usp=sharing ss. 113-127
+ 
+ Ethics of Big Data https://drive.google.com/file/d/1E40Ch66evn-Yl_hvwcosWwauxVepAYQt/view?usp=sharing
+ 
+ Big Data at Work https://drive.google.com/file/d/11pZumzsdQB7zqeKv6zP76nhWGT4zqcfO/view?usp=sharing How Big Data Matter ss. 367-402
+ 
+ Privacy and Big Data https://drive.google.com/file/d/1iNb8YXdL5N6mJ97QSRtsnu3euDxFmgK2/view?usp=sharing
+
+    
+    4- Büyük Veri'de Kullanılan API, Software Örnekleri Nelerdir? (R, Pyton, SQL, Twitter API'leri)
+    
+Using R to unlock the value of big data https://drive.google.com/file/d/1s_INijMDAnRHwlsOlsd_CDtHMJEPtqjI/view?usp=sharing
+    
+Big Data at Work https://drive.google.com/file/d/11pZumzsdQB7zqeKv6zP76nhWGT4zqcfO/view?usp=sharing Twitter Analysis: Methods for Data Management ... ss. 83-138
+    
+Big Data Related Technologies, Challenges.. https://drive.google.com/file/d/11oDeuhOiFyc4HXOVuho67bAXBiMCtRrt/view?usp=sharing Big Data Applications ss. 59-76
 
 
-    3- Sosyal Bilimlerde Büyük Veri Üzerinden Araştırma Nasıl Araştırma Yapılır?
-
-Okuma:
+    5- Sosyal Bilimlerde Büyük Veri Üzerinden Nasıl Araştırma Yapılır? Nicel ve Nitel Örnekler
 
 Big Data in Computational Social Science and Humanities https://drive.google.com/file/d/1dt8yodkXIWsKAYE3nUcQr3epxhNUwoym/view?usp=sharing
 
@@ -73,68 +83,41 @@ Online and Social Media Data as An Imperfect Continuous Panel Survey https://dri
 
 Digital Methods for Web Search https://drive.google.com/file/d/1amtzja3bvG8bUcvPKwQj8fldmuZlkUdv/view?usp=sharing
 
-    4- Verilerin Gizliliği Nedir? Büyük Veri'de Etik Sorunu Nasıl Ele Alınır?
-    
- Okuma: 
-    
- Thick big data: https://drive.google.com/file/d/1H-9r5IaJa5pVPjfO-zdWbv_vpNUO7Fjv/view?usp=sharing ss. 113-127
- 
- Ethics of Big Data https://drive.google.com/file/d/1E40Ch66evn-Yl_hvwcosWwauxVepAYQt/view?usp=sharing
- 
- Big Data at Work https://drive.google.com/file/d/11pZumzsdQB7zqeKv6zP76nhWGT4zqcfO/view?usp=sharing How Big Data Matter ss. 367-402
- 
- 
-
-    5- Büyük Veri'de Kullanılan API, Software Örnekleri Nelerdir? (R, Pyton, SQL, Twitter API'leri)
-    
-    
-   Using R to unlock the value of big data https://drive.google.com/file/d/1s_INijMDAnRHwlsOlsd_CDtHMJEPtqjI/view?usp=sharing
-    
-   Big Data at Work https://drive.google.com/file/d/11pZumzsdQB7zqeKv6zP76nhWGT4zqcfO/view?usp=sharing Twitter Analysis: Methods for Data Management ... ss. 83-138
-    
-   Privacy and Big Data https://drive.google.com/file/d/1iNb8YXdL5N6mJ97QSRtsnu3euDxFmgK2/view?usp=sharing
-    
-   Big Data Related Technologies, Challenges.. https://drive.google.com/file/d/11oDeuhOiFyc4HXOVuho67bAXBiMCtRrt/view?usp=sharing Big Data Applications ss. 59-76
-
     6- Büyük Veri'nin Nitel Yöntemlerle Yorumlanması (İçerik Analizi, Söylem Analizi, Derlem Bilim)
    
-   Okuma:
-   Thick big data: https://drive.google.com/file/d/1H-9r5IaJa5pVPjfO-zdWbv_vpNUO7Fjv/view?usp=sharing ss. 70-98
+Thick big data: https://drive.google.com/file/d/1H-9r5IaJa5pVPjfO-zdWbv_vpNUO7Fjv/view?usp=sharing ss. 70-98
+
 
     7- Büyük Verinin Nicel Araştırmalarda Kullanılması (İstatistiksel, Ekonometrik, Sosyal Ağ Teoremine yönelik)
-  
-  Okuma: 
+    
+Computer Age Statistical Inference https://drive.google.com/file/d/1nExcpK6YYBJoHImDhR5YWi6TkIXwFaTp/view?usp=sharing
  
- Computer Age Statistical Inference https://drive.google.com/file/d/1nExcpK6YYBJoHImDhR5YWi6TkIXwFaTp/view?usp=sharing
- 
- Thick big data: https://drive.google.com/file/d/1H-9r5IaJa5pVPjfO-zdWbv_vpNUO7Fjv/view?usp=sharing ss. 28-70
+Thick big data: https://drive.google.com/file/d/1H-9r5IaJa5pVPjfO-zdWbv_vpNUO7Fjv/view?usp=sharing ss. 28-70
   
-  Big Data at Work https://drive.google.com/file/d/11pZumzsdQB7zqeKv6zP76nhWGT4zqcfO/view?usp=sharing Statistical Methods for Big Data: A Scenic Tour ss. 60-83
+Big Data at Work https://drive.google.com/file/d/11pZumzsdQB7zqeKv6zP76nhWGT4zqcfO/view?usp=sharing Statistical Methods for Big Data: A Scenic Tour ss. 60-83
   
-  Big Data and Internet of Things A Roadmap for Smart Environments https://drive.google.com/file/d/1MfqZWGyW3w4tg_kDen6uacMGYUQE9Cyi/view?usp=sharing Social Networking Analysis ss.367-400
-  Head First Data Analysis https://drive.google.com/file/d/1CehAr6USEfjyMarrueL8j72TTbA5ZH9g/view?usp=sharing Hypothesis Testing, Bayesian Statistics, Regression ss.139-359
+Big Data and Internet of Things A Roadmap for Smart Environments https://drive.google.com/file/d/1MfqZWGyW3w4tg_kDen6uacMGYUQE9Cyi/view?usp=sharing Social Networking Analysis ss.367-400
+
+Head First Data Analysis https://drive.google.com/file/d/1CehAr6USEfjyMarrueL8j72TTbA5ZH9g/view?usp=sharing Hypothesis Testing, Bayesian Statistics, Regression ss.139-359
   
-  Stastistical Modeling and Analysis for Database Marketing https://drive.google.com/file/d/1CzYFqnC0XVRXT5XGhMUfYr7NvEtiHAcU/view?usp=sharing 
+Stastistical Modeling and Analysis for Database Marketing https://drive.google.com/file/d/1CzYFqnC0XVRXT5XGhMUfYr7NvEtiHAcU/view?usp=sharing 
   
-  Birds of the Same Feather Tweet Together: Baynesian Ideal Point Estimation Using Twitter Data https://drive.google.com/file/d/1gXv4TzIGld9bTnnl-S_6pnYyJtguj5T-/view?usp=sharing
+Birds of the Same Feather Tweet Together: Baynesian Ideal Point Estimation Using Twitter Data https://drive.google.com/file/d/1gXv4TzIGld9bTnnl-S_6pnYyJtguj5T-/view?usp=sharing
   
- 
   
     8- Büyük Verinin Karma Yöntemlerle Yorumlanması (Kutuplaşma Teoremi)
-    
-   Okuma: 
    
-   Political Polarization on Twitter https://drive.google.com/file/d/1KMdNtgYlWC82AP9CxN2d9OnV9ObJbFvR/view?usp=sharing
+ Political Polarization on Twitter https://drive.google.com/file/d/1KMdNtgYlWC82AP9CxN2d9OnV9ObJbFvR/view?usp=sharing
    
-   Expousure to Opposing Views can Increase Political Polarization: .. Social Media https://drive.google.com/file/d/1GSLkJ1Gs5kZSQ8YzY-rfEufNj1uGgCOT/view?usp=sharing
+ Expousure to Opposing Views can Increase Political Polarization: .. Social Media https://drive.google.com/file/d/1GSLkJ1Gs5kZSQ8YzY-rfEufNj1uGgCOT/view?usp=sharing
    
-   Digital Trace Data in the Study of Public Opinion:... https://drive.google.com/file/d/1EO0dy3XL2Tow_rv1UqPJk4sWN3jo_1EQ/view?usp=sharing
+ Digital Trace Data in the Study of Public Opinion:... https://drive.google.com/file/d/1EO0dy3XL2Tow_rv1UqPJk4sWN3jo_1EQ/view?usp=sharing
    
-   Core-periphery or decentralized? Topological Shifts ... on Twitter https://drive.google.com/file/d/1psBOc8wA0G4m4Veov0SqIw4YL3ZbCp91/view?usp=sharing
+ Core-periphery or decentralized? Topological Shifts ... on Twitter https://drive.google.com/file/d/1psBOc8wA0G4m4Veov0SqIw4YL3ZbCp91/view?usp=sharing
    
    
    
 
-X- Araştırmalarda Kullanılacak Kolaylaştırıcı Uygulamalar (OSF.io, Zotero, Mendeley, Onenote, Scriviner)
+     Araştırmalarda Kullanılacak Kolaylaştırıcı Uygulamalar (Zotero, Mendeley, Onenote, Scriviner) (isteğe bağlı bölüm)
 
-Not: osf.io, özellikle ekip çalışmasına dayalı akademik projelerin oluşturulmasına olanak sağlayan açık kodlu bir platform olduğu için özellikle seçilmiştir. Platform üzerinden kendi ilgi ya da uzmanlık alanınızla ilgili yerlere gerekli ekleme, çıkarma ya düzenlemeleri gerçekleştirebilirsiniz.
+Not: github,.özellikle ekip çalışmasına dayalı  projelerin oluşturulmasına olanak sağlayan açık kodlu bir platform olduğu için özellikle seçilmiştir. Platform üzerinden kendi ilgi ya da uzmanlık alanınızla ilgili yerlere gerekli ekleme, çıkarma ya düzenlemeleri gerçekleştirebilirsiniz. 
