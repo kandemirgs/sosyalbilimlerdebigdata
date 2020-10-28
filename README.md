@@ -120,4 +120,6 @@ Birds of the Same Feather Tweet Together: Baynesian Ideal Point Estimation Using
 
      Araştırmalarda Kullanılacak Kolaylaştırıcı Uygulamalar (Zotero, Mendeley, Onenote, Scriviner) (isteğe bağlı bölüm)
 
-Not: github,.özellikle ekip çalışmasına dayalı  projelerin oluşturulmasına olanak sağlayan açık kodlu bir platform olduğu için özellikle seçilmiştir. Platform üzerinden kendi ilgi ya da uzmanlık alanınızla ilgili yerlere gerekli ekleme, çıkarma ya düzenlemeleri gerçekleştirebilirsiniz. 
+**Not:** github,.özellikle ekip çalışmasına dayalı  projelerin oluşturulmasına olanak sağlayan açık kodlu bir platform olduğu için özellikle seçilmiştir. Platform üzerinden kendi ilgi ya da uzmanlık alanınızla ilgili yerlere gerekli ekleme, çıkarma ya düzenlemeleri gerçekleştirebilirsiniz. 
+
+**Bonus:** Central European Üniversitesinin "Using Big Data for Social Sciences Research" kursunun izlencesi buradakinden bağımsız olarak okuma listesi takip edilebilir. https://drive.google.com/file/d/1VGmKiDtdKzjm3BaeFxN1-zOv497JpL1h/view?usp=sharing 
